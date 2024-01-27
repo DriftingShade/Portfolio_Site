@@ -44,3 +44,8 @@
     color: white;
     margin: 1rem;
 }
+
+.active {
+    font-weight: bold;
+    border: 2px solid green;
+}
