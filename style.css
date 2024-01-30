@@ -49,3 +49,33 @@
     font-weight: bold;
     border: 2px solid green;
 }
+
+/* Hero Classes */
+
+.hero {
+    width: 1800px;
+    margin: 0 auto;
+}
+
+.hero-main {
+    background-color: black;
+    color: white;
+    min-height: 100px;
+    flex: 2
+}
+
+.hero-main h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.hero-aside {
+    background-color: green;
+    min-height: 100px;
+    flex: 1;
+}
+
+.hero-aside h2 {
+    font-size: 3rem;
+    text-align: center;
+}
