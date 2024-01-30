@@ -43,13 +43,12 @@
     text-decoration: none;
     color: white;
     margin: 1rem;
+    transition: 0.3s ease-in-out;
 }
 
 .nav-links a:hover {
-    font-size: 1.55rem;
-    transition: 0.3s ease-in-out;
+    border: 2px solid green;
     background-color: green;
-    font-weight: bold;
 }
 
 .active {
