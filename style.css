@@ -45,6 +45,13 @@
     margin: 1rem;
 }
 
+.nav-links a:hover {
+    font-size: 1.55rem;
+    transition: 0.3s ease-in-out;
+    background-color: green;
+    font-weight: bold;
+}
+
 .active {
     font-weight: bold;
     border: 2px solid green;
